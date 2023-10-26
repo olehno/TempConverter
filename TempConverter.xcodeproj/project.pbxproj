@@ -14,6 +14,7 @@
 		1AE2CEC72AEB1A9700570E6B /* TempConverter.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1AE2CEC52AEB1A9700570E6B /* TempConverter.xcdatamodeld */; };
 		1AE2CEC92AEB1A9900570E6B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1AE2CEC82AEB1A9900570E6B /* Assets.xcassets */; };
 		1AE2CECC2AEB1A9900570E6B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1AE2CECA2AEB1A9900570E6B /* LaunchScreen.storyboard */; };
+		1AE2CED42AEB2B7E00570E6B /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AE2CED32AEB2B7E00570E6B /* InfoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1AE2CEC82AEB1A9900570E6B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1AE2CECB2AEB1A9900570E6B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1AE2CECD2AEB1A9900570E6B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1AE2CED32AEB2B7E00570E6B /* InfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				1AE2CEBC2AEB1A9700570E6B /* AppDelegate.swift */,
 				1AE2CEBE2AEB1A9700570E6B /* SceneDelegate.swift */,
 				1AE2CEC02AEB1A9700570E6B /* ViewController.swift */,
+				1AE2CED32AEB2B7E00570E6B /* InfoViewController.swift */,
 				1AE2CEC22AEB1A9700570E6B /* Main.storyboard */,
 				1AE2CEC82AEB1A9900570E6B /* Assets.xcassets */,
 				1AE2CECA2AEB1A9900570E6B /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				1AE2CEC12AEB1A9700570E6B /* ViewController.swift in Sources */,
 				1AE2CEBD2AEB1A9700570E6B /* AppDelegate.swift in Sources */,
 				1AE2CEBF2AEB1A9700570E6B /* SceneDelegate.swift in Sources */,
+				1AE2CED42AEB2B7E00570E6B /* InfoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
